@@ -1,0 +1,61 @@
+<DOCTYPE html>
+<html>
+
+	<head>
+
+		<meta charset="UTF-8">
+		
+		<title>Jonathan Sartori Bruzarrosco</title>
+		
+		<link rel="stylesheet" href="style.css">
+		
+	</head>
+
+	<body>
+	
+		<header>
+		
+			<img class="photo" src="imagens/rosto.jpg" alt="Ilustração do rosto do Jonathan Sartori Bruzarrosco">
+			<h1 id="title">Jonathan Sartori Bruzarrosco</h1>
+		</header>
+		
+		<section>
+		
+			<header>
+				<h2 class="subtitle">Posts</h2>
+			</header>
+			
+			<article class="post">
+			
+				<header>
+					<h3 class="post_title">Post #1</h3>
+					<img class="post_image" src="imagens/img_background.jpg" alt="Editor de texto contendo código HTML">
+				</header>
+				
+				<p class="post_content">
+					Lorem Ipsum is simply dummy text of the <a href="https://github.com/jonathansartorib" target="_blank">aqui link para meu GitHub</a> industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also Ipsum passages, and more recently with desktop <a href="mailto:jonathansartorib@hotmail.com">enviar email para</a> like Aldus PageMaker including versions of Lorem Ipsum
+				</p>
+			
+			</article>
+			
+		</section>
+		
+		<footer>
+		
+			<ul>
+				<li>
+					<a href="mailto:jonathansartorib@hotmail">jonathansartorib@hotmail.com</a>
+				</li>
+				<li>
+					<a href="https://github.com/jonathansartorib" target="_blank">GitHub</a>
+				</li>
+				<li>
+					<a href="https://www.gviccino.com.br/" target="_blank">Site que fiz</a>
+				</li>
+			</ul>
+		
+		</footer>
+	
+	</body>
+
+</html>
